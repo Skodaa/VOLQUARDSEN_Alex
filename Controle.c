@@ -19,10 +19,10 @@ int main(int argc,char *argv[]){
 	if(rep == x){
 		printf("le nombre %d est parfait", x);
 
-	}else{
+	}/*else{
 		printf("le nombre %d n'est pas parfait", x);
 
-	} 
+	} */
 
 
 

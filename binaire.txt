@@ -1,0 +1,7 @@
+Les deux premiers nombres parfait en binaire sont :
+
+6 = 110;
+
+28 = 11100;
+
+
